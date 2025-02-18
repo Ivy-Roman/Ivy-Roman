@@ -5,25 +5,25 @@
 ### **About Me**  
 Hey there! I’m **Ivie Osoiye**. You may also call me **Ivy Roman**, a **SOC Analyst** passionate about **threat intelligence, security monitoring, and incident response**. With a background in **technical support and security operations**, I focus on **detecting, analyzing, and mitigating cyber threats** to protect digital assets.  
 
-🔹 **SOC Analyst | Security Monitoring | Threat Detection**  
-🔹 **Incident Response | Digital Forensics | Log Analysis**  
-🔹 **NIST 800-171 | Compliance | Risk Management**  
-🔹 **SIEM (Splunk, Wazuh) | Microsoft Defender | EDR Solutions**  
-🔹 **Python for Security | Network & Endpoint Security | Cloud Security**  
+- **SOC Analyst | Security Monitoring | Threat Detection**
+- **Incident Response | Digital Forensics | Log Analysis**
+- **NIST 800-171 | Compliance | Risk Management**
+- **SIEM (Splunk, Wazuh) | Microsoft Defender | EDR Solutions**
+- **Python for Security | Network & Endpoint Security | Cloud Security**  
 
 ---
 
 ### **Skills & Technologies**  
 **Security Operations:** SIEM, IDS/IPS, Endpoint Security  
 **Incident Response & Threat Hunting:** Log Analysis, Digital Forensics  
-**Network & Cloud Security:** Palo Alto, Azure AD (Entra ID), Microsoft 365 Security  
+**Network & Cloud Security:** Azure AD (Entra ID), Microsoft 365 Security  
 **Threat Intelligence & Compliance:** MITRE ATT&CK, OSINT, NIST 800-171  
 **Automation & Scripting:** Python, Bash, PowerShell  
 
 ---
 
 ### **Projects & Research**  
-**[Vulnerability Assessment With Nessus]([https://github.com/yourgithub](https://github.com/Ivy-Roman/Cybersecurity-Nessus-Assessment))** –a comprehensive vulnerability assessment using Tenable Nessus, focusing on identifying, analyzing, and mitigating security risks in a simulated environment.
+**[Vulnerability Assessment With Nessus]([https://github.com/yourgithub](https://github.com/Ivy-Roman/Cybersecurity-Nessus-Assessment))** –A comprehensive vulnerability assessment using Tenable Nessus, focusing on identifying, analyzing, and mitigating security risks in a simulated environment.
 
 ---
 
@@ -38,8 +38,6 @@ Hey there! I’m **Ivie Osoiye**. You may also call me **Ivy Roman**, a **SOC An
 **LinkedIn:** [linkedin.com/in/theromanivy](https://linkedin.com/in/theromanivy)  
 **Email:** osoiyeivie@gmail.com  
 **GitHub:** [github.com/ivy-roman](https://github.com/ivy-roman)  
-
-🔹 *Always learning. Always securing. Let’s collaborate!* 
 
 <!---
 Ivy-Roman/Ivy-Roman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
