@@ -23,10 +23,7 @@ Hey there! I’m **Ivie Osoiye**. You may also call me **Ivy Roman**, a **SOC An
 ---
 
 ### **Projects & Research**  
-**[NIST 800-171 Compliance Mapping](https://github.com/yourgithub)** – Researched & implemented security controls for compliance  
-**[SIEM Log Analysis (Splunk & Wazuh)](https://github.com/yourgithub)** – Threat hunting & security event monitoring  
-**[Email Security Hardening](https://github.com/yourgithub)** – Configured anti-phishing & malware protection (SPF, DKIM, DMARC)  
-**[Malware Analysis & Threat Intelligence](https://github.com/yourgithub)** – Investigated & documented malware behavior  
+**[Vulnerability Assessment With Nessus]([https://github.com/yourgithub](https://github.com/Ivy-Roman/Cybersecurity-Nessus-Assessment))** –a comprehensive vulnerability assessment using Tenable Nessus, focusing on identifying, analyzing, and mitigating security risks in a simulated environment.
 
 ---
 
