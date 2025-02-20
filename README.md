@@ -14,24 +14,24 @@ Hey there! I’m **Ivie Osoiye**. You may also call me **Ivy Roman**, a **SOC An
 ---
 
 ### **Skills & Technologies**  
-**Security Operations:** SIEM, IDS/IPS, Endpoint Security  
-**Incident Response & Threat Hunting:** Log Analysis, Digital Forensics  
-**Network & Cloud Security:** Azure AD (Entra ID), Microsoft 365 Security  
-**Threat Intelligence & Compliance:** MITRE ATT&CK, OSINT, NIST 800-171  
-**Automation & Scripting:** Python, Bash, PowerShell  
+- **Security Operations:** SIEM, IDS/IPS, Endpoint Security  
+- **Incident Response & Threat Hunting:** Log Analysis, Digital Forensics  
+- **Network & Cloud Security:** Azure AD (Entra ID), Microsoft 365 Security  
+- **Threat Intelligence & Compliance:** MITRE ATT&CK, OSINT, NIST 800-171  
+- **Automation & Scripting:** Python, Bash, PowerShell  
 
 ---
 
 ### **Projects & Research**  
-**[Vulnerability Assessment With Nessus](https://github.com/Ivy-Roman/Cybersecurity-Nessus-Assessment)** – A comprehensive vulnerability assessment using Tenable Nessus, focusing on identifying, analyzing, and mitigating security risks in a simulated environment.
-**[Splunk SSH Log Analysis & Threat Detection]**(https://github.com/Ivy-Roman/Splunk-SSH-Log-Analysis) - This project focuses on log analysis, threat detection, and alerting using Splunk Cloud.
+- **[Vulnerability Assessment With Nessus](https://github.com/Ivy-Roman/Cybersecurity-Nessus-Assessment)** – A comprehensive vulnerability assessment using Tenable Nessus, focusing on identifying, analyzing, and mitigating security risks in a simulated environment.
+- **[Splunk SSH Log Analysis & Threat Detection](https://github.com/Ivy-Roman/Splunk-SSH-Log-Analysis)** - This project focuses on log analysis, threat detection, and alerting using Splunk Cloud.
 
 ---
 
 ### **Certifications**  
-**SOC Analyst Certificate - Cyblack SOC Academy**  
-**Google Cybersecurity Professional (Coursera)**  
-**CompTIA Security+ (In Progress)**  
+- **SOC Analyst Certificate - Cyblack SOC Academy**  
+- **Google Cybersecurity Professional (Coursera)**  
+- **CompTIA Security+ (In Progress)**  
 
 ---
 
