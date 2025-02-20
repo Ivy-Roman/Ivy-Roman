@@ -23,7 +23,8 @@ Hey there! I’m **Ivie Osoiye**. You may also call me **Ivy Roman**, a **SOC An
 ---
 
 ### **Projects & Research**  
-**[Vulnerability Assessment With Nessus]([https://github.com/yourgithub](https://github.com/Ivy-Roman/Cybersecurity-Nessus-Assessment))** –A comprehensive vulnerability assessment using Tenable Nessus, focusing on identifying, analyzing, and mitigating security risks in a simulated environment.
+**[Vulnerability Assessment With Nessus](https://github.com/Ivy-Roman/Cybersecurity-Nessus-Assessment)** – A comprehensive vulnerability assessment using Tenable Nessus, focusing on identifying, analyzing, and mitigating security risks in a simulated environment.
+**[Splunk SSH Log Analysis & Threat Detection]**(https://github.com/Ivy-Roman/Splunk-SSH-Log-Analysis) - This project focuses on log analysis, threat detection, and alerting using Splunk Cloud.
 
 ---
 
