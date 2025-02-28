@@ -1,4 +1,4 @@
-### **Ivie ‘Ivy’ Osoiye | SOC Analyst | Security Analyst**
+### **Ivie ‘Ivy’ Osoiye | Support Engineer | Security Analyst**
 
 ---
 
