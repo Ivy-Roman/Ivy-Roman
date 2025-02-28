@@ -3,8 +3,9 @@
 ---
 
 ### **About Me**  
-Hey there! I’m **Ivie Osoiye**. You may also call me **Ivy Roman**, a **SOC Analyst** passionate about **threat intelligence, security monitoring, and incident response**. With a background in **technical support and security operations**, I focus on **detecting, analyzing, and mitigating cyber threats** to protect digital assets.  
+Hey there! I’m Ivie Osoiye, also known as Ivy Roman. I have a diverse background in technical support, security operations, and cybersecurity. Whether it's troubleshooting deployment issues, analyzing logs for security threats, or helping developers build resilient applications, I thrive in problem-solving environments where technology meets real-world impact.  
 
+- **Technical Support | API Debugging | Cloud Deployments**
 - **SOC Analyst | Security Monitoring | Threat Detection**
 - **Incident Response | Digital Forensics | Log Analysis**
 - **NIST 800-171 | Compliance | Risk Management**
